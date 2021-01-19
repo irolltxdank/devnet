@@ -1,0 +1,6 @@
+I am on my way to pass the Cisco DEVASC exam.
+at this rate i will be ready for the exam in no time.
+<<<<<<< HEAD
+=======
+I am a git novice!
+>>>>>>> test
